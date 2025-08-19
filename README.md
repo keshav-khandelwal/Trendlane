@@ -1,4 +1,6 @@
+#          TRENDLANE 
 # 🛒 Futuristic E-Commerce Website  
+
 
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)  
 ![Tailwind](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
