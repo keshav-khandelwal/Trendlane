@@ -104,10 +104,16 @@ You can try the live project here:
 
 ## 🎨 UI Preview  
 
-[Image](https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213523.png?raw=true)
-[Image](https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213543.png?raw=true)
-[Image](https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213601.png?raw=true)
-[Image](https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213631.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213523.png?raw=true" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213543.png?raw=true" alt="Screenshot 2" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213601.png?raw=true" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/keshav-khandelwal/keshav-khandelwal/blob/main/Screenshot%202025-08-19%20213631.png?raw=true" alt="Screenshot 4" width="300" />
+</p>
 
 ---
 
